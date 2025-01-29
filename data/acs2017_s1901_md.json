@@ -1,0 +1,2068 @@
+{
+  "variables": {
+    "S1901_C04_009EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_009MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_008EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_008MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_007EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_007MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_006EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_006MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_005EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_005MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_004EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_004MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_003E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_003M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_004E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_004M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_005E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_005M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_006E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_006M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_007E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_007M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_008E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_008M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_009E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_009M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_003EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_003MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_010E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_010M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_011E": {
+      "label": "Estimate!!Nonfamily households!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_011M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_012E": {
+      "label": "Estimate!!Nonfamily households!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_012M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_013E": {
+      "label": "Estimate!!Nonfamily households!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_013M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_014E": {
+      "label": "Estimate!!Nonfamily households!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_014M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_002EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_001E": {
+      "label": "Estimate!!Nonfamily households!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_001M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_002MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_002E": {
+      "label": "Estimate!!Nonfamily households!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_002M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_001EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_001MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_015E": {
+      "label": "Estimate!!Nonfamily households!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_015M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_016E": {
+      "label": "Estimate!!Nonfamily households!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_016M": {
+      "label": "Margin of Error!!Nonfamily households MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_011EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_015EA": {
+      "label": "Annotation of Estimate!!Households!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_014EA": {
+      "label": "Annotation of Estimate!!Households!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_010EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_014MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_010MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_010MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_010EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_001EA": {
+      "label": "Annotation of Estimate!!Families!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_013EA": {
+      "label": "Annotation of Estimate!!Households!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_013MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_013MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_002EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_013EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_012EA": {
+      "label": "Annotation of Estimate!!Households!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_012MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_001MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_012MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_003EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_012EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_011EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_002MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_011MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_011MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_010MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_015MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_015EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_010EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_014MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_014EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_016MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_016EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_008MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_008EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_009MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_009EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_004EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "NAME": {
+      "label": "Geographic Area Name",
+      "concept": "MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) OF WORKERS BY SEX AND WOMEN'S EARNINGS AS A PERCENTAGE OF MEN'S EARNINGS BY SELECTED CHARACTERISTICS;VETERAN STATUS;FOOD STAMPS/SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM (SNAP);EMPLOYMENT STATUS;EMPLOYMENT CHARACTERISTICS OF FAMILIES;WORK STATUS IN THE PAST 12 MONTHS;OCCUPATION BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX  FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX  FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPANCY CHARACTERISTICS;DEMOGRAPHIC CHARACTERISTICS FOR OCCUPIED HOUSING UNITS;FINANCIAL CHARACTERISTICS;PHYSICAL HOUSING CHARACTERISTICS FOR OCCUPIED HOUSING UNITS;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITH A MORTGAGE;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITHOUT A MORTGAGE;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE (3 TYPES);CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE (3 TYPES);CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE (5 TYPES);SELECTED CHARACTERISTICS OF HEALTH INSURANCE COVERAGE IN THE UNITED STATES;PRIVATE HEALTH INSURANCE COVERAGE BY TYPE AND SELECTED CHARACTERISTICS;PUBLIC HEALTH INSURANCE COVERAGE BY TYPE AND SELECTED CHARACTERISTICS;TYPES OF COMPUTERS AND INTERNET SUBSCRIPTIONS;TYPES OF INTERNET SUBSCRIPTIONS BY SELECTED CHARACTERISTICS;POPULATION 60 YEARS AND OVER IN THE UNITED STATES;POPULATION 60 YEARS AND OVER IN PUERTO RICO;POPULATION 65 YEARS AND OVER IN THE UNITED STATES;POPULATION 65 YEARS AND OVER IN PUERTO RICO;SELECTED CHARACTERISTICS OF THE NATIVE AND FOREIGN-BORN POPULATIONS;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO THE UNITED STATES;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO PUERTO RICO;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  EUROPE;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  AFRICA, NORTHERN AMERICA, AND OCEANIA;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  ASIA;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  LATIN AMERICA;CHILDREN CHARACTERISTICS;CHARACTERISTICS OF TEENAGERS 15 TO 19 YEARS OLD;GRANDCHILDREN CHARACTERISTICS;CHARACTERISTICS OF PEOPLE WITH A MARITAL EVENT IN THE LAST 12 MONTHS;SELECTED CHARACTERISTICS OF PEOPLE AT SPECIFIED LEVELS OF POVERTY IN THE PAST 12 MONTHS;SELECTED ECONOMIC CHARACTERISTICS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION BY DISABILITY STATUS;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN THE UNITED STATES;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN PUERTO RICO;SELECTED CHARACTERISTICS OF THE UNINSURED IN THE UNITED STATES;SELECTED CHARACTERISTICS OF THE UNINSURED IN PUERTO RICO;AGE AND SEX;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN THE UNITED STATES;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN PUERTO RICO;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN THE UNITED STATES;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN PUERTO RICO;MOVERS BETWEEN REGIONS;COMMUTING CHARACTERISTICS BY SEX;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS FOR WORKPLACE GEOGRAPHY;GRANDPARENTS;HOUSEHOLDS AND FAMILIES;MARITAL STATUS;FERTILITY;SCHOOL ENROLLMENT;EDUCATIONAL ATTAINMENT;FIELD OF BACHELOR'S DEGREE FOR FIRST MAJOR;LANGUAGE SPOKEN AT HOME;LIMITED ENGLISH SPEAKING HOUSEHOLDS;CHARACTERISTICS OF PEOPLE BY LANGUAGE SPOKEN AT HOME;POVERTY STATUS IN THE PAST 12 MONTHS;POVERTY STATUS IN THE PAST 12 MONTHS OF FAMILIES;DISABILITY CHARACTERISTICS;INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS);MEAN INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS);MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS);EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_003MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_005MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_005EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_004MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_006MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_006EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_016MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_007MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_007EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_016EA": {
+      "label": "Annotation of Estimate!!Households!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_015MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_013EA": {
+      "label": "Annotation of Estimate!!Families!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_012MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_014EA": {
+      "label": "Annotation of Estimate!!Families!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_013MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_015EA": {
+      "label": "Annotation of Estimate!!Families!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_014MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_016MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_016EA": {
+      "label": "Annotation of Estimate!!Families!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_015MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_002MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_002M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_002E": {
+      "label": "Estimate!!Married-couple families!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_002EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_003M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_003E": {
+      "label": "Estimate!!Married-couple families!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_001E": {
+      "label": "Estimate!!Married-couple families!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_001M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_006M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_006E": {
+      "label": "Estimate!!Married-couple families!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_007M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_007E": {
+      "label": "Estimate!!Married-couple families!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_004M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_004E": {
+      "label": "Estimate!!Married-couple families!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_005M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_005E": {
+      "label": "Estimate!!Married-couple families!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_001MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_010E": {
+      "label": "Estimate!!Married-couple families!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_010M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_011E": {
+      "label": "Estimate!!Married-couple families!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_011M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_001EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_014M": {
+      "label": "Margin of Error!!Married-couple families MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_014E": {
+      "label": "Estimate!!Married-couple families!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_015M": {
+      "label": "Margin of Error!!Married-couple families MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_015E": {
+      "label": "Estimate!!Married-couple families!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_012E": {
+      "label": "Estimate!!Married-couple families!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_012M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_013M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_013E": {
+      "label": "Estimate!!Married-couple families!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_016M": {
+      "label": "Margin of Error!!Married-couple families MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_016E": {
+      "label": "Estimate!!Married-couple families!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_008M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_008E": {
+      "label": "Estimate!!Married-couple families!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_009M": {
+      "label": "Margin of Error!!Married-couple families MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_009E": {
+      "label": "Estimate!!Married-couple families!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_016E": {
+      "label": "Estimate!!Households!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_004MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_016M": {
+      "label": "Margin of Error!!Households MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_015E": {
+      "label": "Estimate!!Households!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_015M": {
+      "label": "Margin of Error!!Households MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_014M": {
+      "label": "Margin of Error!!Households MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_014E": {
+      "label": "Estimate!!Households!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_004EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_010MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_013M": {
+      "label": "Margin of Error!!Households MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_013E": {
+      "label": "Estimate!!Households!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_012M": {
+      "label": "Margin of Error!!Households MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_012E": {
+      "label": "Estimate!!Households!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_011M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_011E": {
+      "label": "Estimate!!Households!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_010EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_010M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_010E": {
+      "label": "Estimate!!Households!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_009E": {
+      "label": "Estimate!!Households!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_009M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_008E": {
+      "label": "Estimate!!Households!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_008M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_007E": {
+      "label": "Estimate!!Households!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_007M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_006E": {
+      "label": "Estimate!!Households!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_003MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_006M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_005E": {
+      "label": "Estimate!!Households!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_005M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_004E": {
+      "label": "Estimate!!Households!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_004M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_003M": {
+      "label": "Margin of Error!!Households MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_003E": {
+      "label": "Estimate!!Households!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_002M": {
+      "label": "Margin of Error!!Households MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_002E": {
+      "label": "Estimate!!Households!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_012EA": {
+      "label": "Annotation of Estimate!!Families!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_003EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_011MA": {
+      "label": "Annotation of Margin of Error!!Families MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_001M": {
+      "label": "Margin of Error!!Households MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_001E": {
+      "label": "Estimate!!Households!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_011EA": {
+      "label": "Annotation of Estimate!!Families!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_006MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_006EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_005MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_005EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_008MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_008EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_007MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_007EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_009MA": {
+      "label": "Annotation of Margin of Error!!Married-couple families MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C03_009EA": {
+      "label": "Annotation of Estimate!!Married-couple families!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_016EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_016MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_015EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_015MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_014EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_014MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_013EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_013MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_012EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_012MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "concept": "MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) OF WORKERS BY SEX AND WOMEN'S EARNINGS AS A PERCENTAGE OF MEN'S EARNINGS BY SELECTED CHARACTERISTICS;VETERAN STATUS;FOOD STAMPS/SUPPLEMENTAL NUTRITION ASSISTANCE PROGRAM (SNAP);EMPLOYMENT STATUS;EMPLOYMENT CHARACTERISTICS OF FAMILIES;WORK STATUS IN THE PAST 12 MONTHS;OCCUPATION BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX  FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX  FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER;OCCUPANCY CHARACTERISTICS;DEMOGRAPHIC CHARACTERISTICS FOR OCCUPIED HOUSING UNITS;FINANCIAL CHARACTERISTICS;PHYSICAL HOUSING CHARACTERISTICS FOR OCCUPIED HOUSING UNITS;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITH A MORTGAGE;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITHOUT A MORTGAGE;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE (3 TYPES);CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE (3 TYPES);CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE (5 TYPES);SELECTED CHARACTERISTICS OF HEALTH INSURANCE COVERAGE IN THE UNITED STATES;PRIVATE HEALTH INSURANCE COVERAGE BY TYPE AND SELECTED CHARACTERISTICS;PUBLIC HEALTH INSURANCE COVERAGE BY TYPE AND SELECTED CHARACTERISTICS;TYPES OF COMPUTERS AND INTERNET SUBSCRIPTIONS;TYPES OF INTERNET SUBSCRIPTIONS BY SELECTED CHARACTERISTICS;POPULATION 60 YEARS AND OVER IN THE UNITED STATES;POPULATION 60 YEARS AND OVER IN PUERTO RICO;POPULATION 65 YEARS AND OVER IN THE UNITED STATES;POPULATION 65 YEARS AND OVER IN PUERTO RICO;SELECTED CHARACTERISTICS OF THE NATIVE AND FOREIGN-BORN POPULATIONS;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO THE UNITED STATES;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO PUERTO RICO;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  EUROPE;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  AFRICA, NORTHERN AMERICA, AND OCEANIA;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  ASIA;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH:  LATIN AMERICA;CHILDREN CHARACTERISTICS;CHARACTERISTICS OF TEENAGERS 15 TO 19 YEARS OLD;GRANDCHILDREN CHARACTERISTICS;CHARACTERISTICS OF PEOPLE WITH A MARITAL EVENT IN THE LAST 12 MONTHS;SELECTED CHARACTERISTICS OF PEOPLE AT SPECIFIED LEVELS OF POVERTY IN THE PAST 12 MONTHS;SELECTED ECONOMIC CHARACTERISTICS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION BY DISABILITY STATUS;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN THE UNITED STATES;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN PUERTO RICO;SELECTED CHARACTERISTICS OF THE UNINSURED IN THE UNITED STATES;SELECTED CHARACTERISTICS OF THE UNINSURED IN PUERTO RICO;AGE AND SEX;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN THE UNITED STATES;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN PUERTO RICO;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN THE UNITED STATES;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN PUERTO RICO;MOVERS BETWEEN REGIONS;COMMUTING CHARACTERISTICS BY SEX;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS FOR WORKPLACE GEOGRAPHY;GRANDPARENTS;HOUSEHOLDS AND FAMILIES;MARITAL STATUS;FERTILITY;SCHOOL ENROLLMENT;EDUCATIONAL ATTAINMENT;FIELD OF BACHELOR'S DEGREE FOR FIRST MAJOR;LANGUAGE SPOKEN AT HOME;LIMITED ENGLISH SPEAKING HOUSEHOLDS;CHARACTERISTICS OF PEOPLE BY LANGUAGE SPOKEN AT HOME;POVERTY STATUS IN THE PAST 12 MONTHS;POVERTY STATUS IN THE PAST 12 MONTHS OF FAMILIES;DISABILITY CHARACTERISTICS;INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS);MEAN INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS);MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS);EARNINGS IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_011EA": {
+      "label": "Annotation of Estimate!!Nonfamily households!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C04_011MA": {
+      "label": "Annotation of Margin of Error!!Nonfamily households MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_001EA": {
+      "label": "Annotation of Estimate!!Households!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_001MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_009EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_009MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_008EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_008MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_007MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_007EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_006MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_006EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_005MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_005EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_004MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_004EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_001M": {
+      "label": "Margin of Error!!Families MOE!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_001E": {
+      "label": "Estimate!!Families!!Total",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_002M": {
+      "label": "Margin of Error!!Families MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_002E": {
+      "label": "Estimate!!Families!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_003EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_003M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_003E": {
+      "label": "Estimate!!Families!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_004M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_004E": {
+      "label": "Estimate!!Families!!Total!!$15,000 to $24,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_009M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_009E": {
+      "label": "Estimate!!Families!!Total!!$100,000 to $149,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_003MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!$10,000 to $14,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_005M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_005E": {
+      "label": "Estimate!!Families!!Total!!$25,000 to $34,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_006M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_006E": {
+      "label": "Estimate!!Families!!Total!!$35,000 to $49,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_007M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_007E": {
+      "label": "Estimate!!Families!!Total!!$50,000 to $74,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_008M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_008E": {
+      "label": "Estimate!!Families!!Total!!$75,000 to $99,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_013M": {
+      "label": "Margin of Error!!Families MOE!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_013E": {
+      "label": "Estimate!!Families!!Mean income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_014M": {
+      "label": "Margin of Error!!Families MOE!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_014E": {
+      "label": "Estimate!!Families!!PERCENT ALLOCATED!!Household income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_015M": {
+      "label": "Margin of Error!!Families MOE!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_015E": {
+      "label": "Estimate!!Families!!PERCENT ALLOCATED!!Family income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_016M": {
+      "label": "Margin of Error!!Families MOE!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_016E": {
+      "label": "Estimate!!Families!!PERCENT ALLOCATED!!Nonfamily income in the past 12 months",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_002EA": {
+      "label": "Annotation of Estimate!!Households!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_010M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_010E": {
+      "label": "Estimate!!Families!!Total!!$150,000 to $199,999",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_011M": {
+      "label": "Margin of Error!!Families MOE!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_011E": {
+      "label": "Estimate!!Families!!Total!!$200,000 or more",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "float",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_012M": {
+      "label": "Margin of Error!!Families MOE!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C02_012E": {
+      "label": "Estimate!!Families!!Median income (dollars)",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "int",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1901_C01_002MA": {
+      "label": "Annotation of Margin of Error!!Households MOE!!Total!!Less than $10,000",
+      "concept": "INCOME IN THE PAST 12 MONTHS (IN 2017 INFLATION-ADJUSTED DOLLARS)",
+      "predicateType": "string",
+      "group": "S1901",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "variables": {
+    "S1602_C03_004E": {
+      "label": "Limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_004M": {
+      "label": "Limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_005E": {
+      "label": "Limited English-speaking households!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_005M": {
+      "label": "Limited English-speaking households!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_001E": {
+      "label": "Limited English-speaking households!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_001M": {
+      "label": "Limited English-speaking households!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_002E": {
+      "label": "Limited English-speaking households!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_002M": {
+      "label": "Limited English-speaking households!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_003E": {
+      "label": "Limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_003M": {
+      "label": "Limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_005EA": {
+      "label": "Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_005MA": {
+      "label": "Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "NAME": {
+      "label": "Geographic Area Name",
+      "concept": "AGE AND SEX ;POPULATION 60 YEARS AND OVER IN THE UNITED STATES ;POPULATION 60 YEARS AND OVER IN PUERTO RICO ;POPULATION 65 YEARS AND OVER IN THE UNITED STATES ;POPULATION 65 YEARS AND OVER IN PUERTO RICO ;SELECTED CHARACTERISTICS OF THE NATIVE AND FOREIGN-BORN POPULATIONS ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO PUERTO RICO ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: EUROPE ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: AFRICA, NORTHERN AMERICA, AND OCEANIA ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: ASIA ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: LATIN AMERICA ;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN PUERTO RICO ;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN THE UNITED STATES ;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN PUERTO RICO ;MOVERS BETWEEN REGIONS ;COMMUTING CHARACTERISTICS BY SEX ;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS ;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS FOR WORKPLACE GEOGRAPHY ;CHILDREN CHARACTERISTICS ;CHARACTERISTICS OF TEENAGERS 15 TO 19 YEARS OLD ;GRANDCHILDREN CHARACTERISTICS ;GRANDPARENTS ;HOUSEHOLDS AND FAMILIES ;MARITAL STATUS ;CHARACTERISTICS OF PEOPLE WITH A MARITAL EVENT IN THE LAST 12 MONTHS ;FERTILITY ;SCHOOL ENROLLMENT ;EDUCATIONAL ATTAINMENT ;FIELD OF BACHELOR'S DEGREE FOR FIRST MAJOR ;LANGUAGE SPOKEN AT HOME ;LIMITED ENGLISH SPEAKING HOUSEHOLDS ;CHARACTERISTICS OF PEOPLE BY LANGUAGE SPOKEN AT HOME ;POVERTY STATUS IN THE PAST 12 MONTHS ;POVERTY STATUS IN THE PAST 12 MONTHS OF FAMILIES ;SELECTED CHARACTERISTICS OF PEOPLE AT SPECIFIED LEVELS OF POVERTY IN THE PAST 12 MONTHS ;DISABILITY CHARACTERISTICS ;SELECTED ECONOMIC CHARACTERISTICS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION BY DISABILITY STATUS ;INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;MEAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) OF WORKERS BY SEX AND WOMEN'S EARNINGS AS A PERCENTAGE OF MEN'S EARNINGS BY SELECTED CHARACTERISTICS ;VETERAN STATUS ;FOOD STAMPS/Supplemental Nutrition Assistance Program (SNAP) ;EMPLOYMENT STATUS ;EMPLOYMENT CHARACTERISTICS OF FAMILIES ;WORK STATUS IN THE PAST 12 MONTHS ;OCCUPATION BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPANCY CHARACTERISTICS ;DEMOGRAPHIC CHARACTERISTICS FOR OCCUPIED HOUSING UNITS ;FINANCIAL CHARACTERISTICS ;PHYSICAL HOUSING CHARACTERISTICS FOR OCCUPIED HOUSING UNITS ;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITH A MORTGAGE ;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITHOUT A MORTGAGE ;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN THE UNITED STATES ;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN PUERTO RICO ;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE ;SELECTED CHARACTERISTICS OF HEALTH INSURANCE COVERAGE IN THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE UNINSURED IN THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE UNINSURED IN PUERTO RICO ;PRIVATE HEALTH INSURANCE COVERAGE BY TYPE ;PUBLIC HEALTH INSURANCE COVERAGE BY TYPE",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_001M": {
+      "label": "Total!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_001E": {
+      "label": "Total!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_002M": {
+      "label": "Total!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_002E": {
+      "label": "Total!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_003M": {
+      "label": "Total!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_003E": {
+      "label": "Total!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_004M": {
+      "label": "Total!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_004E": {
+      "label": "Total!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_005M": {
+      "label": "Total!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_005E": {
+      "label": "Total!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "int",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_001MA": {
+      "label": "Annotation of Percent limited English-speaking households!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_001EA": {
+      "label": "Annotation of Percent limited English-speaking households!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_003MA": {
+      "label": "Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_003EA": {
+      "label": "Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_002MA": {
+      "label": "Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_002EA": {
+      "label": "Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_005EA": {
+      "label": "Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_005MA": {
+      "label": "Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_004EA": {
+      "label": "Annotation of Percent limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_004MA": {
+      "label": "Annotation of Percent limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_005M": {
+      "label": "Percent!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_005E": {
+      "label": "Percent!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_003E": {
+      "label": "Percent!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_003M": {
+      "label": "Percent!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_004E": {
+      "label": "Percent!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_004M": {
+      "label": "Percent!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_001E": {
+      "label": "Percent!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_001M": {
+      "label": "Percent!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_002E": {
+      "label": "Percent!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_002M": {
+      "label": "Percent!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_004EA": {
+      "label": "Annotation of Total!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_003MA": {
+      "label": "Annotation of Total!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_003EA": {
+      "label": "Annotation of Total!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_002MA": {
+      "label": "Annotation of Total!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_005MA": {
+      "label": "Annotation of Total!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_005EA": {
+      "label": "Annotation of Total!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_004MA": {
+      "label": "Annotation of Total!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_002EA": {
+      "label": "Annotation of Total!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_001MA": {
+      "label": "Annotation of Total!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C01_001EA": {
+      "label": "Annotation of Total!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_001MA": {
+      "label": "Annotation of Limited English-speaking households!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_003EA": {
+      "label": "Annotation of Percent!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_001EA": {
+      "label": "Annotation of Limited English-speaking households!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_003MA": {
+      "label": "Annotation of Percent!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_001MA": {
+      "label": "Annotation of Percent!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_002MA": {
+      "label": "Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_002EA": {
+      "label": "Annotation of Percent!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_002EA": {
+      "label": "Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_002MA": {
+      "label": "Annotation of Percent!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_003EA": {
+      "label": "Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_001EA": {
+      "label": "Annotation of Percent!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_003MA": {
+      "label": "Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_004EA": {
+      "label": "Annotation of Limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C03_004MA": {
+      "label": "Annotation of Limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "GEO_ID": {
+      "label": "Geography",
+      "concept": "AGE AND SEX ;POPULATION 60 YEARS AND OVER IN THE UNITED STATES ;POPULATION 60 YEARS AND OVER IN PUERTO RICO ;POPULATION 65 YEARS AND OVER IN THE UNITED STATES ;POPULATION 65 YEARS AND OVER IN PUERTO RICO ;SELECTED CHARACTERISTICS OF THE NATIVE AND FOREIGN-BORN POPULATIONS ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY PERIOD OF ENTRY INTO PUERTO RICO ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: EUROPE ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: AFRICA, NORTHERN AMERICA, AND OCEANIA ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: ASIA ;SELECTED CHARACTERISTICS OF THE FOREIGN-BORN POPULATION BY REGION OF BIRTH: LATIN AMERICA ;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE TOTAL AND NATIVE POPULATIONS IN PUERTO RICO ;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN THE UNITED STATES ;GEOGRAPHIC MOBILITY BY SELECTED CHARACTERISTICS IN PUERTO RICO ;MOVERS BETWEEN REGIONS ;COMMUTING CHARACTERISTICS BY SEX ;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS ;MEANS OF TRANSPORTATION TO WORK BY SELECTED CHARACTERISTICS FOR WORKPLACE GEOGRAPHY ;CHILDREN CHARACTERISTICS ;CHARACTERISTICS OF TEENAGERS 15 TO 19 YEARS OLD ;GRANDCHILDREN CHARACTERISTICS ;GRANDPARENTS ;HOUSEHOLDS AND FAMILIES ;MARITAL STATUS ;CHARACTERISTICS OF PEOPLE WITH A MARITAL EVENT IN THE LAST 12 MONTHS ;FERTILITY ;SCHOOL ENROLLMENT ;EDUCATIONAL ATTAINMENT ;FIELD OF BACHELOR'S DEGREE FOR FIRST MAJOR ;LANGUAGE SPOKEN AT HOME ;LIMITED ENGLISH SPEAKING HOUSEHOLDS ;CHARACTERISTICS OF PEOPLE BY LANGUAGE SPOKEN AT HOME ;POVERTY STATUS IN THE PAST 12 MONTHS ;POVERTY STATUS IN THE PAST 12 MONTHS OF FAMILIES ;SELECTED CHARACTERISTICS OF PEOPLE AT SPECIFIED LEVELS OF POVERTY IN THE PAST 12 MONTHS ;DISABILITY CHARACTERISTICS ;SELECTED ECONOMIC CHARACTERISTICS FOR THE CIVILIAN NONINSTITUTIONALIZED POPULATION BY DISABILITY STATUS ;INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;MEAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;MEDIAN INCOME IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) ;MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) OF WORKERS BY SEX AND WOMEN'S EARNINGS AS A PERCENTAGE OF MEN'S EARNINGS BY SELECTED CHARACTERISTICS ;VETERAN STATUS ;FOOD STAMPS/Supplemental Nutrition Assistance Program (SNAP) ;EMPLOYMENT STATUS ;EMPLOYMENT CHARACTERISTICS OF FAMILIES ;WORK STATUS IN THE PAST 12 MONTHS ;OCCUPATION BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY OCCUPATION FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY CLASS OF WORKER FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPATION BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;INDUSTRY BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;CLASS OF WORKER BY SEX AND MEDIAN EARNINGS IN THE PAST 12 MONTHS (IN 2015 INFLATION-ADJUSTED DOLLARS) FOR THE FULL-TIME, YEAR-ROUND CIVILIAN EMPLOYED POPULATION 16 YEARS AND OVER ;OCCUPANCY CHARACTERISTICS ;DEMOGRAPHIC CHARACTERISTICS FOR OCCUPIED HOUSING UNITS ;FINANCIAL CHARACTERISTICS ;PHYSICAL HOUSING CHARACTERISTICS FOR OCCUPIED HOUSING UNITS ;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITH A MORTGAGE ;FINANCIAL CHARACTERISTICS FOR HOUSING UNITS WITHOUT A MORTGAGE ;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN THE UNITED STATES ;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION IN PUERTO RICO ;CHARACTERISTICS OF THE GROUP QUARTERS POPULATION BY GROUP QUARTERS TYPE ;SELECTED CHARACTERISTICS OF HEALTH INSURANCE COVERAGE IN THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE UNINSURED IN THE UNITED STATES ;SELECTED CHARACTERISTICS OF THE UNINSURED IN PUERTO RICO ;PRIVATE HEALTH INSURANCE COVERAGE BY TYPE ;PUBLIC HEALTH INSURANCE COVERAGE BY TYPE",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_004M": {
+      "label": "Percent limited English-speaking households!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_004E": {
+      "label": "Percent limited English-speaking households!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_003M": {
+      "label": "Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_003E": {
+      "label": "Percent limited English-speaking households!!Estimate!!Households speaking!!Other Indo-European languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_005M": {
+      "label": "Percent limited English-speaking households!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_005E": {
+      "label": "Percent limited English-speaking households!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_002M": {
+      "label": "Percent limited English-speaking households!!Margin of Error!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_002E": {
+      "label": "Percent limited English-speaking households!!Estimate!!Households speaking!!Spanish",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_001M": {
+      "label": "Percent limited English-speaking households!!Margin of Error!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C04_001E": {
+      "label": "Percent limited English-speaking households!!Estimate!!All households",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "float",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_005EA": {
+      "label": "Annotation of Percent!!Estimate!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_005MA": {
+      "label": "Annotation of Percent!!Margin of Error!!Households speaking!!Other languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_004EA": {
+      "label": "Annotation of Percent!!Estimate!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    },
+    "S1602_C02_004MA": {
+      "label": "Annotation of Percent!!Margin of Error!!Households speaking!!Asian and Pacific Island languages",
+      "concept": "LIMITED ENGLISH SPEAKING HOUSEHOLDS",
+      "predicateType": "string",
+      "group": "S1602",
+      "limit": 0,
+      "predicateOnly": true
+    }
+  }
+}
